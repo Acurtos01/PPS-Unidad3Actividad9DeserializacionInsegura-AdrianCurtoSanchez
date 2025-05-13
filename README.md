@@ -82,6 +82,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 </body>
 </html>
  ```
+Accedemos a la URL http://localhost/deserializacion/GenerarObjeto.php.
+
 
  ## Explotación de Deserialización Insegura
 
